@@ -1,0 +1,118 @@
+
+
+@media (max-width: 320px) { 
+    
+  .news-about-principal {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 30px;
+    padding: 20px 0;
+}
+   
+
+}
+
+
+@media (max-width: 575px) { 
+    
+
+   
+
+}
+
+
+@media (max-width: 767px) {
+
+
+
+  .news-about-principal {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 30px;
+    padding: 20px 0;
+}
+
+
+
+.vision-mission {background: #611427;}
+
+.vision-mission-container
+{
+   
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap:30px;
+    padding: 30px auto;
+    
+
+}
+
+
+.boxes2
+{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+
+
+.circle-grid
+{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap:30px;
+    padding: 20px 0;
+
+}
+
+
+
+
+.setbg
+{
+    background: #1D2326 ;
+ }
+
+
+
+}
+
+
+@media (max-width: 991px) 
+{
+
+
+
+
+
+}
+
+
+@media (max-width: 1199px) { 
+
+
+
+
+}
+
+
+
+@media (min-width: 102px) { 
+
+
+  .red-yellow-bg
+  {
+    background: url(../images/topbg.jpg) repeat-x left top;
+  }
+
+
+  .left-dark-bg 
+  {
+    background: url(../images/left-black-bg.svg) no-repeat center center;
+    background-size:auto 118px;
+    background-position-x: -1350px;
+    
+  }
+
+  
+}
