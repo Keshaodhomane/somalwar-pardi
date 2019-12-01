@@ -441,3 +441,58 @@ font-size: 0.9em;
 {
 height: 300px;
 }
+
+
+
+
+
+
+.bluebg-strip {
+    background: #611427;
+    line-height: 30px;
+    color: #fff;
+}
+
+.allinline * {
+    font-size: 12px;
+}
+
+.allinline a,
+.allinline span {
+    color: #fff;
+    line-height: 30px;
+    display: inline-block;
+    *display: inline;
+    margin: 0 5px;
+}
+
+.skiptomain {
+    background: url(../images/downarrow_icon.svg) no-repeat center left;
+    background-size: 15px auto;
+    padding-left: 20px;
+}
+
+
+
+.skiptonav {
+    background: url(../images/downarrow_icon.svg) no-repeat center left;
+    background-size: 15px auto;
+    padding-left: 20px;
+}
+
+
+
+.screenreader {
+    background: url(../images/speaker_icon.svg) no-repeat center left;
+    background-size: 20px auto;
+    padding-left: 30px;
+}
+
+
+.black-css{border:1px solid #808080; line-height: 18px !important; width: 20px; background: #000;}
+
+.blue-css{border:1px solid #fff; line-height: 18px !important; width: 20px; background: #053F59;}
+
+.green-css{background: #611427;   border:1px solid #fff; line-height: 18px !important; width: 20px;}
+
+.orange-css{background: #88BA7B; border:1px solid #fff; line-height: 18px !important; width: 20px;}

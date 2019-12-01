@@ -1,0 +1,64 @@
+
+
+.bluebg-strip {
+    background: #417656;
+}
+
+
+.buttons-grid > div, .active > a, .greencurve, .news > li, .tab-pane, .last-bottom
+{
+    background: #417656;
+}
+
+
+.news > li > div:last-child
+{
+    background: #417656;
+}
+
+
+.red-yellow-bg {
+
+    background: url(../images/topbg-green.jpg) repeat-x left top;
+
+}
+
+
+.redmenu, .news-scrolling, .topslider, .btn-danger
+{
+    background: #417656;
+}
+
+
+.titlebg
+{
+    background: url(../images/title-bg-green.svg) no-repeat left center;
+
+}
+
+
+.img-container1 h6
+ {
+background: url(../images/red-heading-arrow-background-green.svg) no-repeat left center;
+
+ }
+
+
+ .vision-mission
+{
+    background:url(../images/student-background-green.jpg) no-repeat center top;
+}
+
+
+
+
+.news-scroll li:nth-child(even){
+    background: #035F27;
+}
+
+
+.bottom 
+{
+    background: url(../images/bottombg-green.jpg) no-repeat center top;
+    background-size: cover;
+}
